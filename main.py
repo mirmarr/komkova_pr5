@@ -9,7 +9,7 @@ import get_files as gf
 
 
 def main():
-    link = "https://pikabu.ru/best"
+    link = "https://wallpaperscraft.ru/catalog/animals"
 
     if os.path.exists("Images") == True:
         pass
